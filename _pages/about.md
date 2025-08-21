@@ -75,7 +75,7 @@ Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 25.06</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Arxiv 25.06]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
