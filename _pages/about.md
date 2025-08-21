@@ -1,4 +1,4 @@
-<img width="432" height="29" alt="image" src="https://github.com/user-attachments/assets/feb11957-4963-4804-8a6b-8f1bdf2b08ca" /><img width="432" height="19" alt="image" src="https://github.com/user-attachments/assets/c676be39-b58c-4b84-b129-a65e456e3674" /><img width="432" height="19" alt="image" src="https://github.com/user-attachments/assets/1918d98e-b175-42dd-85b7-c2cbd5856f78" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
