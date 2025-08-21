@@ -41,7 +41,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[AAAI 2024]**[Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting](https://arxiv.org/abs/2305.04440)
@@ -58,7 +58,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 
 Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 highlight</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 highlight</div><img src='images/iccv25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[ICCV 2025 Highlight]**[SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement](https://arxiv.org/abs/2507.04263)
@@ -68,7 +68,7 @@ Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Arxiv 25.06]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116)
