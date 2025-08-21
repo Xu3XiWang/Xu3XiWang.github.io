@@ -19,6 +19,8 @@ redirect_from:
 
 Hi👋! I’m Zhicheng Wang (王志诚), a second-year Master student at the Huazhong University of Science and Technology, supervised by Zhiguo Cao. I obtained both my Bachelor’s degrees from Huazhong University of Science and Technology. My research interests focus on Open-World Object Localization & Counting, MLLM Representation and Video LLM.
 
+I am currently an intern at Alibaba's Pailitao (拍立淘), one of China's largest real-world multi-modal applications. My work focuses on developing efficient MLLM-to-Embedding models for a large-scale, multi-modal search system that indexes over 10 billion image-text product pairs for e-commerce.
+
 I’m always open to new collaborations, so please feel free to get in touch🙋!
 
 
@@ -93,6 +95,6 @@ Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\*
 - 
 
 # 💻 Internships
-- *2024.02 - Present*, Alibaba, Future Life Lab, Pailitao(拍立淘).
+- *2024.02 - Present*, Alibaba, Future Living Lab, Pailitao(拍立淘).
 - *2024.07 - 2024.12*, Shanghai AI Lab.
 - *2024.06 - 2025.02*, Worked on project “Camera Image Fusion and Reconstruction” with Huawei.
