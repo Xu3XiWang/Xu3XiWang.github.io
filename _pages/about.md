@@ -58,6 +58,9 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 
 Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 highlight</div><img src='images/iccv25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
