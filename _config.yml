@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage"
+title                    : "Zhicheng Wang"
 description              : 
 repository               : "Xu3XiWang/Xu3XiWang.github.io"
 google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : Xu3XiWang
   google_plus      :
   keybase          :
   instagram        :
