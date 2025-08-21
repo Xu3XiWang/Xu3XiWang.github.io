@@ -26,7 +26,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 [SRefiner](https://arxiv.org/abs/2507.04263) is accepted to **ICCV25**.
-- *2025.06*: &nbsp;🎉🎉 we are releasing [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116), a Video-LLM designed for multi-scene video understanding..
+- *2025.06*: &nbsp;🎉🎉 we are releasing [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116), a Video-LLM designed for multi-scene video understanding.
 - *2025.04*: &nbsp;🎉🎉 [DAM](https://www.sciencedirect.com/science/article/pii/S0031320325005801) is accepted to **Pattern Recognition**.
 - *2025.03*: &nbsp;🎉🎉 [CAD-GD](https://arxiv.org/abs/2503.12460v1) is accepted to **CVPR25**.
 - *2023.12*: &nbsp;🎉🎉 [CACViT](https://arxiv.org/abs/2305.04440) is accepted to **AAAI24**.
@@ -36,9 +36,10 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[CVPR 2025]**[Exploring Semantic Density for Referring Expression Counting](https://arxiv.org/abs/2503.12460v1)
-
-**Zhicheng Wang**, Zhiyu Pan, Liwen Xiao, Zhan Peng, Jian Cheng, Wei Jiang, Shuaiyuan Du, Zhiguo Cao
+**[CVPR 2025]**[Exploring Semantic Density for Referring Expression Counting](https://arxiv.org/abs/2503.12460v1) \\
+**Zhicheng Wang**, Zhiyu Pan, Liwen Xiao, Zhan Peng, Jian Cheng, Wei Jiang, Shuaiyuan Du, Zhiguo Cao \\
+[[Paper]](https://arxiv.org/abs/2503.12460v1)
+[[Code]](https://github.com/Xu3XiWang/CAD-GD)
 
 </div>
 </div>
@@ -46,9 +47,10 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[AAAI 2024]**[Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting](https://arxiv.org/abs/2305.04440)
-
-**Zhicheng Wang**, Liwen Xiao, Zhiguo Cao, Hao Lu
+**[AAAI 2024]**[Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting](https://arxiv.org/abs/2305.04440) \\
+**Zhicheng Wang**, Liwen Xiao, Zhiguo Cao, Hao Lu \\
+[[Paper]](https://arxiv.org/abs/2305.04440)
+[[Code]](https://github.com/Xu3XiWang/CACViT-AAAI24)
 
 </div>
 </div>
@@ -56,9 +58,9 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[PR]**[Densely Activated Self-Attention for Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325005801)
-
-Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu
+**[PR]**[Densely Activated Self-Attention for Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325005801) \\
+Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu \\
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325005801) 
 
 </div>
 </div>
@@ -66,9 +68,9 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 highlight</div><img src='images/iccv25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[ICCV 2025 Highlight]**[SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement](https://arxiv.org/abs/2507.04263)
-
-Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li
+**[ICCV 2025 Highlight]**[SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement](https://arxiv.org/abs/2507.04263) \\
+Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
+[[Paper]](https://arxiv.org/abs/2507.04263)
 
 </div>
 </div>
@@ -76,11 +78,9 @@ Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Arxiv 25.06]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116)
-
-[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116)
-
-Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* 
+**[Arxiv 25.06]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
+Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \\
+[[Paper]](https://arxiv.org/abs/2506.21116)
 
 </div>
 </div>
