@@ -92,7 +92,6 @@ Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \
 - *2023* Outstanding graduates (Top 10%)
 - *2021* Merit Student (Top 7%)
 - *2020* Outstanding Undergraduate Student (Top 1%)
-- 
 
 # 💻 Internships
 - *2024.02 - Present*, Alibaba, Future Living Lab, Pailitao(拍立淘).
