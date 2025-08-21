@@ -30,7 +30,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 - *2023.12*: &nbsp;🎉🎉 [CACViT](https://arxiv.org/abs/2305.04440) is accepted to **AAAI24**.
 
 # 📝 Publications 
-
+(\* denotes corresponding author.)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -66,7 +66,7 @@ IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scen
 
 [IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116)
 
-Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**
+Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* 
 
 # 🎖 Honors and Awards
 - *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，Weichai Power Scholarship (“潍柴动力”奖学金)
