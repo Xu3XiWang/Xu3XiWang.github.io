@@ -109,7 +109,8 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 </div>
 
 # 🎖 Honors and Awards
-- *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，Weichai Power Scholarship (“潍柴动力”奖学金)
+- *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，
+- *2024* Weichai Power Scholarship (“潍柴动力”奖学金)
 - *2023* First-Class Scholarship for Postgraduates
 - *2023* Outstanding graduates (Top 10%)
 - *2021* Merit Student (Top 7%)
