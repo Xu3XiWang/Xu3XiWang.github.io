@@ -33,7 +33,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 
 # 📝 Publications 
 (\* denotes corresponding author.)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv 25.09</div><img src='images/iclr26.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv 25.09</div><img src='images/iclr26.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Arxiv 25.09]**[Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization] \\
