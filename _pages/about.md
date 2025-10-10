@@ -99,7 +99,6 @@ Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \
 - *2025* National Scholarship (1%)
 - *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，
 - *2024* Weichai Power Scholarship (“潍柴动力”奖学金)
-- *2023* First-Class Scholarship for Postgraduates
 - *2023* Outstanding graduates (Top 10%)
 - *2021* Merit Student (Top 7%)
 - *2020* Outstanding Undergraduate Student (Top 1%)
