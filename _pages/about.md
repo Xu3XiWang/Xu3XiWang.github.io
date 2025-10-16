@@ -104,6 +104,6 @@ Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \
 - *2020* Outstanding Undergraduate Student (Top 1%)
 
 # 💻 Internships
-- *2024.02 - Present*, Alibaba, Future Living Lab, Pailitao(拍立淘).
+- *2025.02 - Present*, Alibaba, Future Living Lab, Pailitao(拍立淘).
 - *2024.07 - 2024.12*, Shanghai AI Lab.
 - *2024.06 - 2025.02*, Worked on project “Camera Image Fusion and Reconstruction” with Huawei.
