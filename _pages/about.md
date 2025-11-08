@@ -25,6 +25,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116) is accepted to **AAAI26**.
 - *2025.07*: &nbsp;🎉🎉 [SRefiner](https://arxiv.org/abs/2507.04263) is accepted to **ICCV25**.
 - *2025.06*: &nbsp;🎉🎉 we are releasing [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116), a Video-LLM designed for multi-scene video understanding.
 - *2025.04*: &nbsp;🎉🎉 [DAM](https://www.sciencedirect.com/science/article/pii/S0031320325005801) is accepted to **Pattern Recognition**.
@@ -88,7 +89,7 @@ Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 25.06</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Arxiv 25.06]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
+**[AAAI 2026]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
 Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \\
 [[Paper]](https://arxiv.org/abs/2506.21116)
 
