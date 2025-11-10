@@ -66,12 +66,13 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**[PR]**[Densely Activated Self-Attention for Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325005801) \\
-Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu \\
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325005801) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[AAAI 2026]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
+Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \\
+[[Paper]](https://arxiv.org/abs/2506.21116)
 
 </div>
 </div>
@@ -86,12 +87,13 @@ Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[AAAI 2026]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
-Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \\
-[[Paper]](https://arxiv.org/abs/2506.21116)
+
+**[PR]**[Densely Activated Self-Attention for Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325005801) \\
+Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu \\
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325005801) 
+
 
 </div>
 </div>
