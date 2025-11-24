@@ -40,7 +40,6 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
   
 **[Arxiv 25.11]**[Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization] \\
 **Zhicheng Wang**, Chen Ju, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao
-https://arxiv.org/abs/2511.01588
 [[Paper]](https://arxiv.org/abs/2511.01588)
 </div>
 </div>
