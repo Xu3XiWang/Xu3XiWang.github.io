@@ -39,7 +39,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 <div class='paper-box-text' markdown="1">
   
 **[Arxiv 25.11]**[Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization] \\
-**Zhicheng Wang**, Chen Ju, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao
+**Zhicheng Wang**, Chen Ju, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao \\
 [[Paper]](https://arxiv.org/abs/2511.01588)
 </div>
 </div>
@@ -84,6 +84,7 @@ Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \
 **[ICCV 2025 Highlight]**[SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement](https://arxiv.org/abs/2507.04263) \\
 Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
 [[Paper]](https://arxiv.org/abs/2507.04263)
+[[Code]](https://github.com/Liwen-Xiao/SRefiner)
 
 </div>
 </div>
