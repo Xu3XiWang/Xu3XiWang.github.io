@@ -25,7 +25,7 @@ I’m always open to new collaborations, so please feel free to get in touch🙋
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 we are releasing [Pailitao-VL](https://arxiv.org/pdf/2602.13704), a unified embedding and reranker for real-time multi-modal industrial search.
+- *2026.02*: &nbsp;🎉🎉 we are releasing [Pailitao-VL](https://arxiv.org/pdf/2602.13704), a unified embedding and reranker for real-time multi-modal industrial search.
 - *2025.11*: &nbsp;🎉🎉 we are releasing [PDF-VLM2Vec](https://arxiv.org/abs/2511.01588), a efficient training framework for MLLM embedding models.
 - *2025.11*: &nbsp;🎉🎉 [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116) is accepted to **AAAI26**.
 - *2025.07*: &nbsp;🎉🎉 [SRefiner](https://arxiv.org/abs/2507.04263) is accepted to **ICCV25**.
