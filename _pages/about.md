@@ -120,6 +120,6 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 - *2020* Outstanding Undergraduate Student (Top 1%)
 
 # 💻 Internships
-- *2025.02 - Present*, Alibaba, Future Living Lab, Pailitao(拍立淘).
+- *2025.02 - 2025.12*, Alibaba, Future Living Lab, Pailitao(拍立淘).
 - *2024.07 - 2024.12*, Shanghai AI Lab.
 - *2024.06 - 2025.02*, Worked on project “Camera Image Fusion and Reconstruction” with Huawei.
