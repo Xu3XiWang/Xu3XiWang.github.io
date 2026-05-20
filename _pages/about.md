@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi 👋! I’m Zhicheng Wang (王志诚), currently an Algorithm Researcher at ByteDance. My work focuses on MLLM-based representation foundation models for large-scale multi-modal search and video understanding.
-
-My current work aims to develop general-purpose image search and question-answering systems on Douyin, as well as foundational technologies for general video understanding. In particular, I focus on MLLM-based embedding models, Video LLMs, and scalable multi-modal representation learning. Douyin multi-modal search has become one of the largest real-world application scenarios for multi-modal technologies.
+Hi 👋! I’m Zhicheng Wang (王志诚), currently an Algorithm Researcher at ByteDance. My current work aims to develop general-purpose image search and question-answering systems on Douyin, as well as foundational technologies for general video understanding. In particular, I focus on MLLM-based embedding models, Video LLMs, and scalable multi-modal representation learning. Douyin multi-modal search has become one of the largest real-world application scenarios for multi-modal technologies.
 
 Before joining ByteDance, I was a research intern at Alibaba’s Pailitao, one of the largest e-commerce visual search scenarios in China, where I explored large-scale post-training methods for MLLM-based representations in e-commerce search systems.
 
