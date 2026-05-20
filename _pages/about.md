@@ -17,11 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋! I’m Zhicheng Wang (王志诚), a second-year Master student at the Huazhong University of Science and Technology, supervised by Zhiguo Cao. I obtained both my Bachelor’s degrees from Huazhong University of Science and Technology. My research interests focus on Open-World Object Localization & Counting, MLLM Representation and Video LLM.
+Hi 👋! I’m Zhicheng Wang (王志诚), currently an Algorithm Researcher at ByteDance. My work focuses on MLLM-based representation foundation models for large-scale multi-modal search and video understanding.
 
-I am currently an intern at Alibaba's Pailitao (拍立淘), one of China's largest real-world multi-modal applications. My work focuses on developing efficient MLLM-to-Embedding models for a large-scale, multi-modal search system that indexes over 10 billion image-text product pairs for e-commerce.
+My current work aims to develop general-purpose image search and question-answering systems on Douyin, as well as foundational technologies for general video understanding. In particular, I focus on MLLM-based embedding models, Video LLMs, and scalable multi-modal representation learning. Douyin multi-modal search has become one of the largest real-world application scenarios for multi-modal technologies.
 
-I’m always open to new collaborations, so please feel free to get in touch🙋!
+Before joining ByteDance, I was a research intern at Alibaba’s Pailitao, one of the largest e-commerce visual search scenarios in China, where I explored large-scale post-training methods for MLLM-based representations in e-commerce search systems.
+
+I received both my Master’s and Bachelor’s degrees from Huazhong University of Science and Technology, supervised by Prof. Zhiguo Cao. My academic research mainly focused on Open-World Object Localization & Counting, MLLM Representation, and Video LLM.
+
+I’m always open to new collaborations, so please feel free to get in touch 🙋!
+
 
 
 # 🔥 News
@@ -112,14 +117,16 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 </div>
 
 # 🎖 Honors and Awards
+- *2026* Top Talent Program by Technology Companies (Ant Group AntStar Talent Program)
 - *2025* National Scholarship (1%)
 - *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，
 - *2024* Weichai Power Scholarship (“潍柴动力”奖学金)
-- *2023* Outstanding graduates (Top 10%)
-- *2021* Merit Student (Top 7%)
+- *2023* Outstanding graduates
+- *2021* Merit Student
 - *2020* Outstanding Undergraduate Student (Top 1%)
 
 # 💻 Internships
+- *2026.03 - Present*, ByteDance, Data, Multimodal Search.
 - *2025.02 - 2025.12*, Alibaba, Future Living Lab, Pailitao(拍立淘).
 - *2024.07 - 2024.12*, Shanghai AI Lab.
 - *2024.06 - 2025.02*, Worked on project “Camera Image Fusion and Reconstruction” with Huawei.
