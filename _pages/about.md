@@ -39,7 +39,7 @@ I’m always open to new collaborations, so please feel free to get in touch �
 
 # 📝 Publications 
 (\* denotes corresponding author.)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv 26.01</div><img src='images/embedding-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/embedding-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Tech Report]**[Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search] \\
