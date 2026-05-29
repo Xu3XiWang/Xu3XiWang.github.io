@@ -1,6 +1,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="alternate icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="alternate icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 <link rel="manifest" href="images/site.webmanifest">
 
 <meta name="msapplication-TileColor" content="#000000">
@@ -19,5 +20,56 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<script>
+  // Open external links in a new tab; keep same-page anchor links in the current tab
+  document.addEventListener('DOMContentLoaded', function () {
+    var host = window.location.hostname;
+    var path = window.location.pathname;
+
+    // Helper: extract a same-page anchor id from an href, or null if not same-page anchor.
+    function samePageAnchorId(href) {
+      if (!href) return null;
+      if (href.charAt(0) === '#') return href.slice(1) || null;
+      // Handle hrefs like "/#section" or "/path/#section" pointing to current page
+      try {
+        var url = new URL(href, window.location.href);
+        if (url.hostname === host && url.pathname === path && url.hash) {
+          return url.hash.slice(1);
+        }
+      } catch (e) { /* ignore */ }
+      return null;
+    }
+
+    document.querySelectorAll('a[href]').forEach(function (a) {
+      var href = a.getAttribute('href') || '';
+      var anchorId = samePageAnchorId(href);
+      if (anchorId !== null) {
+        a.setAttribute('target', '_self');
+        a.addEventListener('click', function (e) {
+          var target = document.getElementById(anchorId);
+          if (target) {
+            e.preventDefault();
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            history.replaceState(null, '', '#' + anchorId);
+          }
+        });
+        return;
+      }
+      if (href.startsWith('mailto:') || href.startsWith('tel:')) {
+        return;
+      }
+      if (/^https?:\/\//i.test(href)) {
+        try {
+          var url = new URL(href);
+          if (url.hostname && url.hostname !== host) {
+            a.setAttribute('target', '_blank');
+            a.setAttribute('rel', 'noopener noreferrer');
+          }
+        } catch (e) { /* ignore */ }
+      }
+    });
+  });
+</script>
 
 <!-- end custom head snippets -->

@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi 👋! I’m Zhicheng Wang (王志诚), currently an Algorithm Researcher at ByteDance. My current work aims to develop general-purpose image search and question-answering systems on Douyin, as well as foundational technologies for general video understanding. In particular, I focus on MLLM-based embedding models, Video LLMs, and scalable multi-modal representation learning. Douyin multi-modal search has become one of the largest real-world application scenarios for multi-modal technologies.
+<section class="home-hero">
+  <p class="eyebrow">Multimodal Search · MLLM Representation · Video Understanding</p>
+  <h1>Zhicheng Wang <span>王志诚</span></h1>
+  <p class="hero-lead">I build large-scale multimodal systems for real-world search and question answering, with a focus on MLLM-based embeddings, Video LLMs, and scalable representation learning.</p>
+  <div class="hero-actions">
+    <a href="#publications"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</a>
+    <a href="mailto:zhicheng_wang@hust.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</a>
+    <a href="https://scholar.google.com/citations?user=d6qLT28AAAAJ"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+    <a href="https://github.com/Xu3XiWang"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+  </div>
+</section>
 
-Before joining ByteDance, I was a research intern at Alibaba’s Pailitao, one of the largest e-commerce visual search scenarios in China, where I explored large-scale post-training methods for MLLM-based representations in e-commerce search systems.
+<section class="about-intro" markdown="1">
+I am currently an Algorithm Researcher at ByteDance, where I work on general-purpose image search and question-answering systems on Douyin, as well as foundational technologies for general video understanding. My research focuses on MLLM-based embedding models, Video LLMs, and scalable multi-modal representation learning. Before joining ByteDance, I was a research intern at Alibaba Pailitao, one of the largest e-commerce visual search scenarios in China, where I explored large-scale post-training methods for MLLM-based representations in industrial search systems. I received both my Master's and Bachelor's degrees from Huazhong University of Science and Technology, supervised by Prof. Zhiguo Cao. I am always open to collaborations on multimodal retrieval, representation learning, open-world localization and counting, and video-language understanding.
+</section>
 
-I received both my Master’s and Bachelor’s degrees from Huazhong University of Science and Technology, supervised by Prof. Zhiguo Cao. My academic research mainly focused on Open-World Object Localization & Counting, MLLM Representation, and Video LLM.
+# News
+<div class="news-list" markdown="1">
+- *2026.02* Released [Pailitao-VL](https://arxiv.org/pdf/2602.13704), a unified embedding and reranker for real-time multi-modal industrial search.
+- *2025.11* Released [PDF-VLM2Vec](https://arxiv.org/abs/2511.01588), an efficient training framework for MLLM embedding models.
+- *2025.11* [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116) was accepted to **AAAI 2026**.
+- *2025.07* [SRefiner](https://arxiv.org/abs/2507.04263) was accepted to **ICCV 2025** and selected as a **Highlight**.
+- *2025.06* Released [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116), a Video LLM designed for multi-scene video understanding.
+- *2025.04* [DAM](https://www.sciencedirect.com/science/article/pii/S0031320325005801) was accepted to **Pattern Recognition**.
+- *2025.03* [CAD-GD](https://arxiv.org/abs/2503.12460v1) was accepted to **CVPR 2025**.
+- *2023.12* [CACViT](https://arxiv.org/abs/2305.04440) was accepted to **AAAI 2024**.
+</div>
 
-I’m always open to new collaborations, so please feel free to get in touch 🙋!
-
-
-
-# 🔥 News
-- *2026.02*: &nbsp;🎉🎉 we are releasing [Pailitao-VL](https://arxiv.org/pdf/2602.13704), a unified embedding and reranker for real-time multi-modal industrial search.
-- *2025.11*: &nbsp;🎉🎉 we are releasing [PDF-VLM2Vec](https://arxiv.org/abs/2511.01588), a efficient training framework for MLLM embedding models.
-- *2025.11*: &nbsp;🎉🎉 [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116) is accepted to **AAAI26**.
-- *2025.07*: &nbsp;🎉🎉 [SRefiner](https://arxiv.org/abs/2507.04263) is accepted to **ICCV25**.
-- *2025.06*: &nbsp;🎉🎉 we are releasing [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116), a Video-LLM designed for multi-scene video understanding.
-- *2025.04*: &nbsp;🎉🎉 [DAM](https://www.sciencedirect.com/science/article/pii/S0031320325005801) is accepted to **Pattern Recognition**.
-- *2025.03*: &nbsp;🎉🎉 [CAD-GD](https://arxiv.org/abs/2503.12460v1) is accepted to **CVPR25**.
-- *2023.12*: &nbsp;🎉🎉 [CACViT](https://arxiv.org/abs/2305.04440) is accepted to **AAAI24**.
-
-# 📝 Publications 
+# Publications
+<span class='anchor' id='publications'></span>
 (\* denotes corresponding author.)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/embedding-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Tech Report]**[Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search] \\
+<span class="venue-tag">Tech Report</span> **Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search** \\
 Pailitao Team **(Core contributor)** \\
 [[Paper]](https://arxiv.org/pdf/2602.13704)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv 25.09</div><img src='images/iclr26.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 25.11</div><img src='images/iclr26.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-**[Arxiv 25.11]**[Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization] \\
+<span class="venue-tag">Arxiv 25.11</span> **Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization** \\
 **Zhicheng Wang**, Chen Ju, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao \\
 [[Paper]](https://arxiv.org/abs/2511.01588)
 </div>
@@ -62,7 +71,7 @@ Pailitao Team **(Core contributor)** \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[CVPR 2025]**[Exploring Semantic Density for Referring Expression Counting](https://arxiv.org/abs/2503.12460v1) \\
+<span class="venue-tag">CVPR 2025</span> [**Exploring Semantic Density for Referring Expression Counting**](https://arxiv.org/abs/2503.12460v1) \\
 **Zhicheng Wang**, Zhiyu Pan, Liwen Xiao, Zhan Peng, Jian Cheng, Wei Jiang, Shuaiyuan Du, Zhiguo Cao \\
 [[Paper]](https://arxiv.org/abs/2503.12460v1)
 [[Code]](https://github.com/Xu3XiWang/CAD-GD)
@@ -73,7 +82,7 @@ Pailitao Team **(Core contributor)** \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[AAAI 2024]**[Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting](https://arxiv.org/abs/2305.04440) \\
+<span class="venue-tag">AAAI 2024</span> [**Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting**](https://arxiv.org/abs/2305.04440) \\
 **Zhicheng Wang**, Liwen Xiao, Zhiguo Cao, Hao Lu \\
 [[Paper]](https://arxiv.org/abs/2305.04440)
 [[Code]](https://github.com/Xu3XiWang/CACViT-AAAI24)
@@ -85,7 +94,7 @@ Pailitao Team **(Core contributor)** \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[AAAI 2026]**[IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes](https://arxiv.org/abs/2506.21116) \\
+<span class="venue-tag">AAAI 2026</span> [**IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes**](https://arxiv.org/abs/2506.21116) \\
 Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \\
 [[Paper]](https://arxiv.org/abs/2506.21116)
 
@@ -95,7 +104,7 @@ Yujia Liang, Jile Jiao, Xuetao Feng, Zixuan Ye, Yuan Wang, **Zhicheng Wang**\* \
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 highlight</div><img src='images/iccv25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[ICCV 2025 Highlight]**[SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement](https://arxiv.org/abs/2507.04263) \\
+<span class="venue-tag venue-tag--highlight">ICCV 2025 Highlight</span> [**SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement**](https://arxiv.org/abs/2507.04263) \\
 Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
 [[Paper]](https://arxiv.org/abs/2507.04263)
 [[Code]](https://github.com/Liwen-Xiao/SRefiner)
@@ -106,7 +115,7 @@ Liwen Xiao, Zhiyu Pan, **Zhicheng Wang**, Zhiguo Cao, Wei Li \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[PR]**[Densely Activated Self-Attention for Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325005801) \\
+<span class="venue-tag">PR</span> [**Densely Activated Self-Attention for Semantic Segmentation**](https://www.sciencedirect.com/science/article/pii/S0031320325005801) \\
 Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao Lu \\
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325005801) 
 
@@ -114,7 +123,7 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2026* Top Talent Program by Technology Companies (Ant Group AntStar Talent Program)
 - *2025* National Scholarship (1%)
 - *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，
@@ -123,7 +132,7 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 - *2021* Merit Student
 - *2020* Outstanding Undergraduate Student (Top 1%)
 
-# 💻 Internships
+# Internships
 - *2026.03 - Present*, ByteDance, Data, Multimodal Search.
 - *2025.02 - 2025.12*, Alibaba, Future Living Lab, Pailitao(拍立淘).
 - *2024.07 - 2024.12*, Shanghai AI Lab.

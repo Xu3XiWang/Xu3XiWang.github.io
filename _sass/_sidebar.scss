@@ -235,10 +235,17 @@
 
   li {
     white-space: nowrap;
+    color: #415160;
+
+    i {
+      color: #1d6f8f;
+      margin-right: 0.15rem;
+    }
   }
 
   a {
-    display: block;
+    display: flex;
+    align-items: center;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
@@ -248,7 +255,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: #125f7d;
+      text-decoration: none;
     }
   }
 }

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhicheng Wang"
-description              : 
+description              : "Algorithm Researcher at ByteDance, working on multi-modal search, MLLM representations, and video understanding."
 repository               : "Xu3XiWang/Xu3XiWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhicheng Wang"
   avatar           : "images/zcw_photo_0.jpg"
-  bio              : "Huazhong University of Science and Technology."
-  location         : "Wuhan, China"
-  employer         :
+  bio              : "Algorithm Researcher, Multimodal Search"
+  location         : "Beijing, China"
+  employer         : "ByteDance"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=d6qLT28AAAAJ"
   email            : "zhicheng_wang@hust.edu.cn"
