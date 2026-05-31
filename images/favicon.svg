@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#1d6f8f"/>
+  <rect width="64" height="64" rx="10" fill="#1a1d23"/>
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="30" font-weight="700" fill="#ffffff" letter-spacing="-1">ZW</text>
+        font-family="EB Garamond, Source Serif Pro, Georgia, serif"
+        font-size="34" font-weight="600" fill="#fbfbfa" letter-spacing="0">ZW</text>
 </svg>

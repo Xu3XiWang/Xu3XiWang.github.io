@@ -21,12 +21,15 @@ redirect_from:
   <p class="eyebrow">Multimodal Search · MLLM Representation · Video Understanding</p>
   <h1>Zhicheng Wang <span>王志诚</span></h1>
   <p class="hero-lead">I build large-scale multimodal systems for real-world search and question answering, with a focus on MLLM-based embeddings, Video LLMs, and scalable representation learning.</p>
-  <div class="hero-actions">
-    <a href="#publications"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</a>
-    <a href="mailto:zhicheng_wang@hust.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i> Contact</a>
-    <a href="https://scholar.google.com/citations?user=d6qLT28AAAAJ"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
-    <a href="https://github.com/Xu3XiWang"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
-  </div>
+  <p class="hero-links">
+    <a href="#publications">Publications</a>
+    <span class="sep">·</span>
+    <a href="https://scholar.google.com/citations?user=d6qLT28AAAAJ">Google Scholar</a>
+    <span class="sep">·</span>
+    <a href="https://github.com/Xu3XiWang">GitHub</a>
+    <span class="sep">·</span>
+    <a href="mailto:zhicheng_wang@hust.edu.cn">Email</a>
+  </p>
 </section>
 
 <section class="about-intro" markdown="1">
