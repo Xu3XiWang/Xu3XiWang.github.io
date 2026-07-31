@@ -56,7 +56,7 @@ I am currently an Algorithm Researcher at ByteDance, where I work on general-pur
 <div class='paper-box-text' markdown="1">
 
 <span class="venue-tag">Tech Report</span> **Douyin Multimodal Embedding Model Technical Report** \\
-Pailitao Team **(Co-First, Core contributor)** \\
+Douyin Search Multimodal Team **(Co-First, Core contributor)** \\
 [[Paper]]()
 </div>
 </div>
