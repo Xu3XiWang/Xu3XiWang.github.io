@@ -38,6 +38,7 @@ I am currently an Algorithm Researcher at ByteDance, where I work on general-pur
 
 # News
 <div class="news-list" markdown="1">
+- *2026.08* Released Douyin Multimodal Embedding Model Technical Report, an efficient and powerful MLLM embedding model that achieves SOTA performance on the [MMEBv2](https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard) leaderboard.
 - *2026.02* Released [Pailitao-VL](https://arxiv.org/pdf/2602.13704), a unified embedding and reranker for real-time multi-modal industrial search.
 - *2025.11* Released [PDF-VLM2Vec](https://arxiv.org/abs/2511.01588), an efficient training framework for MLLM embedding models.
 - *2025.11* [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116) was accepted to **AAAI 2026**.
@@ -51,6 +52,15 @@ I am currently an Algorithm Researcher at ByteDance, where I work on general-pur
 # Publications
 <span class='anchor' id='publications'></span>
 (\* denotes corresponding author.)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/dme-embedding-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="venue-tag">Tech Report</span> **Douyin Multimodal Embedding Model Technical Report** \\
+Pailitao Team **(Co-First, Core contributor)** \\
+[[Paper]]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/embedding-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
