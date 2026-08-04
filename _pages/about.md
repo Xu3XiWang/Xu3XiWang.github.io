@@ -38,7 +38,7 @@ I am currently an Algorithm Researcher at ByteDance, where I work on general-pur
 
 # News
 <div class="news-list" markdown="1">
-- *2026.08* Released (Douyin Multimodal Embedding Model Technical Report)[https://arxiv.org/abs/2608.02148], an efficient and powerful MLLM embedding model that achieves SOTA performance on the [MMEBv2](https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard) leaderboard.
+- *2026.08* Released [DME Technical Report][https://arxiv.org/abs/2608.02148], an efficient and powerful MLLM embedding model that achieves SOTA performance on the [MMEBv2](https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard) leaderboard.
 - *2026.02* Released [Pailitao-VL](https://arxiv.org/pdf/2602.13704), a unified embedding and reranker for real-time multi-modal industrial search.
 - *2025.11* Released [PDF-VLM2Vec](https://arxiv.org/abs/2511.01588), an efficient training framework for MLLM embedding models.
 - *2025.11* [IPFormer-VideoLLM](https://arxiv.org/abs/2506.21116) was accepted to **AAAI 2026**.
