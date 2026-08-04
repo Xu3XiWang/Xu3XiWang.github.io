@@ -28,7 +28,7 @@ redirect_from:
     <span class="sep">·</span>
     <a href="https://github.com/Xu3XiWang">GitHub</a>
     <span class="sep">·</span>
-    <a href="mailto:zhicheng_wang@hust.edu.cn">Email</a>
+    <a href="mailto:wangzhicheng.0314@bytedance.com">Email</a>
   </p>
 </section>
 
