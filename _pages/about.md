@@ -139,7 +139,7 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 
 # Honors and Awards
 - *2026* Top Talent Program by Technology Companies (Ant Group AntStar Talent Program)
-- *2025* National Scholarship (1%)
+- *2025* National Scholarship (Top 0.2% Nationwide)
 - *2024* The Lead Intelligent and Wang Yanqing Scholarship (先导智能·王燕清奖学金)，
 - *2024* Weichai Power Scholarship (“潍柴动力”奖学金)
 - *2023* Outstanding graduates
@@ -147,7 +147,7 @@ Liwen Xiao, Wenze Liu, **Zhicheng Wang**, Zhiyu Pan, Yiran Wang, Zhiguo Cao, Hao
 - *2020* Outstanding Undergraduate Student (Top 1%)
 
 # Internships
-- *2026.03 - 2026.06*, ByteDance, Data, Multimodal Search.
+- *2026.03 - 2026.06*, ByteDance, Data, Search Multimodal Team.
 - *2025.02 - 2025.12*, Alibaba, Future Living Lab, Pailitao(拍立淘).
 - *2024.07 - 2024.12*, Shanghai AI Lab.
 - *2024.06 - 2025.02*, Worked on project “Camera Image Fusion and Reconstruction” with Huawei.
